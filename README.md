@@ -6,10 +6,6 @@
 <h3 align="center">A passionate Hacker from India</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=not-deadx&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=not-deadx&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
