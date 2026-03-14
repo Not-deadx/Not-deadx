@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Hacker from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=not-deadx&label=Profile%20views&color=0e75b6&style=flat" alt="not-deadx" />
+<img src="https://komarev.com/ghpvc/?username=not-deadx&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
